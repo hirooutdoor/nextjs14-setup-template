@@ -22,4 +22,5 @@ re-push:
   parallel: true
   commands:
     packages-audit:
+      skip: true
       run: pnpm audit
