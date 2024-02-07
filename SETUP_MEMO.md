@@ -22,7 +22,6 @@ Ok to proceed? (y)
 ```
 
 
-
 ## 2. node version セットアップ
 公式によると、18.17以上が必要条件となっている。
 https://nextjs.org/docs/getting-started/installation
