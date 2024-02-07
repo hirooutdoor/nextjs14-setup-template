@@ -56,7 +56,7 @@ package.json に以下を記述。
     "yarn": "please_use_pnpm_instead"
   },
 ```
-最後に pnpm install 実行。
+最後に pnpm install 実行
 ```
 pnpm update
 pnpm istall
